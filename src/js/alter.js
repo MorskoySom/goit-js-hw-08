@@ -35,4 +35,3 @@ function restoreFormData() {
     elements.emailInput.value = savedFormData.email || '';
     elements.messageInput.value = savedFormData.message || '';
 }
-
